@@ -1,5 +1,5 @@
 # Npc-Teleporter-wotLK
-Npc Teleporter para Wrath of the Lich King (wotLK) 3.3.5
+Npc Teleporter en c++ para Wrath of the Lich King (wotLK) 3.3.5
 
 # Añadir una nueva linea en ...script/Custom/custom_script_loader.cpp
 
